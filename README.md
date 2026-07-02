@@ -1,3 +1,4 @@
+```javascript
 //-- Shaurya Baranwal --//
 // MS CS & AI @ Boston University
 // CS + Math Rutgers Alumnus
