@@ -28,6 +28,6 @@ I focus on technical problems that require both algorithmic optimization and sys
 * **Full-Stack Development:** Optimized real-time database performance and built secure authentication pipelines for collaborative web platforms during my internship at Beunec Technologies.
 
 ## 📫 Connect With Me
-* **LinkedIn:** [Insert LinkedIn URL]
+* **LinkedIn:** [Shaurya Baranwal](https://www.linkedin.com/in/shaurya-baranwal-954b52248/)
 * **YouTube:** [@ShorShor-b25](https://www.youtube.com/@ShorShor-b25)
 * **Email:** shaurya2225@gmail.com
