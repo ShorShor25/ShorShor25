@@ -1,6 +1,7 @@
 # Hi, I'm Shaurya Baranwal 👋
 
 [![Resume](https://img.shields.io/badge/📄_View_My_Resume-blue.svg)](./Baranwal_Shaurya_Resume.pdf) [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@ShorShor-b25)
+
 *Click above to view my full professional background or watch my project demos.*
 
 I am a Software Engineer and aspiring AI/ML Engineer currently pursuing an online M.S. in Computer Science and Artificial Intelligence at Boston University. I previously graduated from the Rutgers University Honors College with a B.S. in Computer Science and Mathematics, along with a Certificate in Mathematical Finance. 
